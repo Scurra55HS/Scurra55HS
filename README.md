@@ -1,7 +1,6 @@
 ## Opa! Eu sou o Anthony Bruno
 
-- 🔭 I am currently studying in (Sesi/Senai B. Bentes)
-- 🌱 I'm currently learning MySQL, ReactNative
+- 🌱 I'm currently learning KaliLinux
 - 💬 Ask me about League of Legends
 
 ##
