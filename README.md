@@ -3,7 +3,6 @@
 - 🌱 I'm currently learning KaliLinux
 - 💬 Ask me about League of Legends
 
-##
 
   <div>
   <a href="https://github.com/Scurra55HS">
